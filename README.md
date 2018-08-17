@@ -1,7 +1,7 @@
 # ICA-2018
 Repositório contendo dois trabalhos da disciplina de Inteligência Computacional Aplicada.
 
-Para um melhor visualização dos notebooks sem precisar rodá-los:
+Para uma melhor visualização dos notebooks sem precisar rodá-los localmente:
 
 ## TC1:
 https://nbviewer.jupyter.org/github/RomuloDrumond/ICA-2018/blob/master/TC1/ICA-TC1-Q1.ipynb
